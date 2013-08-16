@@ -1,0 +1,3 @@
+$random weapons/m16 { weapons/m16-1 weapons/m16-2 }
+weapons/m16-1 M16_1
+weapons/m16-2 M16_2
